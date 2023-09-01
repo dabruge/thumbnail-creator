@@ -1,2 +1,2 @@
 # thumbnail-creator
-Takes in image files and returns scaled down thumbnail versions
+Takes in a path to a directory containing image files and creates a new directory within this containing scaled down thumbnail versions of all images.
